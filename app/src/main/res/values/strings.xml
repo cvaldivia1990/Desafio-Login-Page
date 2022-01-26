@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">Desafio Uno</string>
+    <string name="msj_registro">Registro de usuario</string>
+    <string name="msj_selec_edad">Seleccionar edad</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="ingrese_usuario">Ingrese usuario</string>
+    <string name="ingrese_clave">Ingrese contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="email">Email</string>
+    <string name="selectMasculino">Masculino</string>
+    <string name="selectFemenino">Femenino</string>
+    <string name="seleccionar_sexo">Seleccionar sexo</string>
+    <string name="registrar">Registrar</string>
+    <string name="login_registrese">REGÍSTRESE</string>
+
+    <string-array name="edadRegistro">
+        <item></item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+    </string-array>
 </resources>

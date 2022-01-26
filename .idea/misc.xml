@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/David/AndroidStudioProjects/DesafioUno/app/src/main/res/layout/activity_home.xml" value="0.281640625" />
         <entry key="..\:/Users/David/AndroidStudioProjects/DesafioUno/app/src/main/res/layout/activity_main.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/David/AndroidStudioProjects/DesafioUno/app/src/main/res/layout/activity_registro_usuario.xml" value="0.281640625" />
       </map>
     </option>
   </component>

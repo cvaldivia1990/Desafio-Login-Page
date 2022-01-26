@@ -2,6 +2,7 @@ package cl.desafiolatam.desafiouno;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
 
@@ -21,7 +22,13 @@ public class MainActivity extends AppCompatActivity {
         Picasso.get().load("https://blog.desafiolatam.com/wp-content/uploads/2015/03/desafio-latam-logonegro.png").into(binding.imgPrincipal);
 
         binding.btnIngresar.setOnClickListener(view -> {
-            Toast.makeText(this,"Usuario ingresado con éxito",Toast.LENGTH_LONG).show();
+            Intent intent = new Intent(this,HomeActivity.class);
+            startActivity(intent);
+        });
+
+        binding.btnRegistrese.setOnClickListener(view -> {
+            Intent intent = new Intent(this,ActivityRegistroUsuario.class);
+            startActivity(intent);
         });
 
 
